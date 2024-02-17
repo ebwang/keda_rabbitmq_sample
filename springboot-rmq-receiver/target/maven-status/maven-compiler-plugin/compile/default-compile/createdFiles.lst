@@ -1,0 +1,4 @@
+org/km/samples/springbootrmqreceiver/SpringbootRMQReceiverApplication.class
+org/km/samples/springbootrmqreceiver/repository/MessageRepository.class
+org/km/samples/springbootrmqreceiver/domain/Message.class
+org/km/samples/springbootrmqreceiver/controller/ReceiverController.class

@@ -1,0 +1,4 @@
+/home/ebwang/repos/springboot-rmq-receiver/src/main/java/org/km/samples/springbootrmqreceiver/controller/ReceiverController.java
+/home/ebwang/repos/springboot-rmq-receiver/src/main/java/org/km/samples/springbootrmqreceiver/domain/Message.java
+/home/ebwang/repos/springboot-rmq-receiver/src/main/java/org/km/samples/springbootrmqreceiver/SpringbootRMQReceiverApplication.java
+/home/ebwang/repos/springboot-rmq-receiver/src/main/java/org/km/samples/springbootrmqreceiver/repository/MessageRepository.java
